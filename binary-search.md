@@ -17,6 +17,8 @@
 
 * [Algorithms: Binary Search, Hackerank](https://www.youtube.com/watch?v=P3YID7liBug&list=PL0BT4R9vArM47p1fI2re36ZzB6DG7MFzS&index=6&t=213s)
 
+* [CS Dojo - Introduction to Binary Search](https://www.youtube.com/watch?v=6ysjqCUv3K4&t=38s)
+
 
 ## Articles:
 
