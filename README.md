@@ -1,9 +1,6 @@
-# algorithms-data-structures
-Learning resources and curated material for Algorithms and Data Structures study session
-
 # 👋 Welcome to Women Who Code Tokyo!
 
-## In this repository, we share Learning resources 📚 and curated material for the **Algorithms and Data Structures** study group
+## This repository contains learning resources 📚 and curated material for the **Algorithms and Data Structures** study series
 
 
 # How to join?
@@ -26,4 +23,4 @@ Sign up to [Women Who Code Tokyo](https://www.womenwhocode.com/tokyo/join) to ge
 
 * [Meetup event](https://www.meetup.com/women-who-code-tokyo/events/293242540/) 
 
-* Resources.
+* [Resources](binary-search.md)
