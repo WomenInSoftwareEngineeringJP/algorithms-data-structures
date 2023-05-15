@@ -7,23 +7,19 @@
 
 ## 📅 Online Meetup Events
 * [Women Who Code Tokyo Meetup](https://www.meetup.com/Women-Who-Code-Tokyo).
-<br />
-
 
 ## Join asynchronous
 
 * ✨ WWCode Slack **#tokyo-study-group**
-<br />
 
 Sign up to [Women Who Code Tokyo](https://www.womenwhocode.com/tokyo/join) to get access to Slack and join **#tokyo-study-group** and **#tokyo** channels, or join the Meetup event to get the Slack invitation.
 <br />
 <br />
 
-## Study Plan
+# Study Plan
 
-**Leetcode Platform** ☞ 
+* **Leetcode Platform** ☞ 
 [https://leetcode.com/study-plan/algorithm/](https://leetcode.com/study-plan/algorithm/)
-<br />
 <br />
 
 ## 📚 General resources
