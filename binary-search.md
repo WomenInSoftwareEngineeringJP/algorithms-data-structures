@@ -1,9 +1,6 @@
 # Session 1 - Binary Search
 
-* [Meetup event](https://www.meetup.com/women-who-code-tokyo/events/293242540/) 
-
-
-# Resources
+# 📚 Resources
 
 ## Websites
 
