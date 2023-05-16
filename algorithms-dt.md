@@ -14,6 +14,8 @@
 
 * [Medium - How to Develop Algorithmic Thinking in Computer Science?](https://medium.com/enjoy-algorithm/how-to-develop-algorithmic-thinking-in-data-structure-and-algorithms-b000bbad1ab5)
 
+* [Big-O Cheat sheet - Know Thy Complexities!](https://www.bigocheatsheet.com/)
+
 
 ## Videos
 
