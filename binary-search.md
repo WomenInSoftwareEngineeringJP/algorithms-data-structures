@@ -27,3 +27,14 @@
 
 * [How to identify a Binary Search problem?](https://medium.com/@vaishalithakur614/how-to-identify-a-binary-search-problem-60fbc0ae25ba)
 
+# 💻 Binary Search Problems
+
+## Problems solved during the session
+
+* [704. Binary Search](https://leetcode.com/problems/binary-search/?envType=study-plan&id=algorithm-i)
+* [278. First Bad Version](https://leetcode.com/problems/first-bad-version/?envType=study-plan&id=algorithm-i)
+* [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/?envType=study-plan&id=algorithm-i)
+
+## Related problems to practice 
+* [Leetcode Binary Search. 8 Patterns, 42 Qs = Master BS](https://leetcode.com/studyplan/binary-search/)
+
