@@ -35,6 +35,6 @@
 * [278. First Bad Version](https://leetcode.com/problems/first-bad-version/?envType=study-plan&id=algorithm-i)
 * [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/?envType=study-plan&id=algorithm-i)
 
-## Related problems to practice 
+## More problems to practice binary search
 * [Leetcode Binary Search. 8 Patterns, 42 Qs = Master BS](https://leetcode.com/studyplan/binary-search/)
 
