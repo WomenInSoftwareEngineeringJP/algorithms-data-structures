@@ -34,3 +34,8 @@ Sign up to [Women Who Code Tokyo](https://www.womenwhocode.com/tokyo/join) to ge
 
 * 📚 [Resources](binary-search.md)
 
+## 📌 Session 2 - Two Pointers (Part I)
+
+* 📅 [Meetup event](https://www.meetup.com/women-who-code-tokyo/events/293759417/) 
+
+* 📚 Resources: Will 🐝 ready soon! 
