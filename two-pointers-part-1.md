@@ -4,8 +4,6 @@
 
 ## Websites
 
-* Leetcode [https://leetcode.com/articles/two-pointer-technique/](https://leetcode.com/articles/two-pointer-technique/)
-
 * AfterAcademy [https://afteracademy.com/blog/what-is-the-two-pointer-technique/](https://afteracademy.com/blog/what-is-the-two-pointer-technique/)
 
 * AlgoDaily [https://algodaily.com/lessons/using-the-two-pointer-technique](https://algodaily.com/lessons/using-the-two-pointer-technique)
@@ -18,6 +16,8 @@
 
 
 ## Articles:
+
+* [Intro to Algorithms: Two Pointers Technique]([https://python.plainenglish.io/the-two-pointer-pattern-a-must-have-skill-for-every-coder-a792b0d0617d](https://medium.com/geekculture/intro-to-algorithms-two-pointers-technique-b37f962eab5))
 
 * [The Two-Pointer Pattern: A Must-Have Skill for Every Coder](https://python.plainenglish.io/the-two-pointer-pattern-a-must-have-skill-for-every-coder-a792b0d0617d)
 
@@ -35,4 +35,7 @@
 * [189. Rotate Array](https://leetcode.com/problems/rotate-array/?envType=study-plan&id=algorithm-i)
 * [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/?envType=study-plan&id=algorithm-i)
 * [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/?envType=study-plan&id=algorithm-i)
+
+## Problem solving reference
+* Leetcode [https://leetcode.com/articles/two-pointer-technique/](https://leetcode.com/articles/two-pointer-technique/)
 
