@@ -17,7 +17,7 @@
 
 ## Articles:
 
-* [Intro to Algorithms: Two Pointers Technique]([https://python.plainenglish.io/the-two-pointer-pattern-a-must-have-skill-for-every-coder-a792b0d0617d](https://medium.com/geekculture/intro-to-algorithms-two-pointers-technique-b37f962eab5)
+* [Intro to Algorithms: Two Pointers Technique](https://python.plainenglish.io/the-two-pointer-pattern-a-must-have-skill-for-every-coder-a792b0d0617d](https://medium.com/geekculture/intro-to-algorithms-two-pointers-technique-b37f962eab5)
 
 * [The Two-Pointer Pattern: A Must-Have Skill for Every Coder](https://python.plainenglish.io/the-two-pointer-pattern-a-must-have-skill-for-every-coder-a792b0d0617d)
 
