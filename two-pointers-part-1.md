@@ -27,7 +27,7 @@
 
 * [Array Two pointers](https://medium.com/analytics-vidhya/array-two-pointers-4b8d62d2b8a)
 
-# 💻 Binary Search Problems
+# 💻 Two Pointers Problems
 
 ## Problems solved during the session
 
