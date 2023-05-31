@@ -38,4 +38,4 @@ Sign up to [Women Who Code Tokyo](https://www.womenwhocode.com/tokyo/join) to ge
 
 * 📅 [Meetup event](https://www.meetup.com/women-who-code-tokyo/events/293759417/) 
 
-* 📚 Resources: Will 🐝 ready soon! 
+* 📚 [Resources](two-pointers-part-1.md)
