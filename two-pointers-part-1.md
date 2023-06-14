@@ -1,4 +1,4 @@
-# Session 2 - Two Pointers Part 1
+# Session 2 - Two Pointers
 
 # 📚 Resources
 
@@ -31,10 +31,17 @@
 
 ## Problems solved during the session
 
+### Part 1
 * [977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/?envType=study-plan&id=algorithm-i)
+
+### Part 2
 * [189. Rotate Array](https://leetcode.com/problems/rotate-array/?envType=study-plan&id=algorithm-i)
 * [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/?envType=study-plan&id=algorithm-i)
+
+### Part 3
 * [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/?envType=study-plan&id=algorithm-i)
+* [344. Reverse String](https://leetcode.com/problems/reverse-string/?envType=study-plan&envId=algorithm-i&plan=algorithm)
+* [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/?envType=study-plan&envId=algorithm-i&plan=algorithm)
 
 ## Problem solving reference
 * Leetcode [https://leetcode.com/articles/two-pointer-technique/](https://leetcode.com/articles/two-pointer-technique/)
