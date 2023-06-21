@@ -26,10 +26,10 @@
 
 ## Online courses 
 
-* [Stanford - Algorithms: Design and Analysis, Part 1](https://www.edx.org/course/algorithms-design-and-analysis?index=product&queryID=ebb2965df3b76c77c109d254f571ced9&position=1&search_index=product&results_level=first-level-results&term=Algorithms&campaign=Algorithms%3A+Design+and+Analysis%2C+Part+1&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch)
-
+* [UC San Diego - Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms)
+  
 * [Princeton - Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
-
+ 
 
 ## Books
 
