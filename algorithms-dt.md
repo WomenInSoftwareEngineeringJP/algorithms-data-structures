@@ -33,6 +33,8 @@
 
 ## Books
 
+* [Grokking Algorithms. An illustrated guide for programmers and other curious people](https://www.manning.com/books/grokking-algorithms)
+  
 * [Cracking the Coding Interview, 6th Edition](https://www.amazon.co.jp/-/en/Gayle-Laakmann-McDowell/dp/0984782850)
 
 * [Online book - Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/ns/books/published/pythonds/index.html)
