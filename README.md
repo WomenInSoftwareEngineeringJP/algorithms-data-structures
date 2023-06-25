@@ -24,7 +24,7 @@ Sign up to [Women Who Code Tokyo](https://www.womenwhocode.com/tokyo/join) to ge
 
 ## 📚 General resources
 
-* ✨ [Algorithms and Data Structures](algorithms-dt.md)
+### ✨ [Algorithms and Data Structures](algorithms-dt.md)
 
 <br />
 
@@ -46,3 +46,8 @@ Sign up to [Women Who Code Tokyo](https://www.womenwhocode.com/tokyo/join) to ge
 
 * 📚 [Resources](two-pointers-part-1.md)
 
+## 📌✨ Session 4 - Two Pointers (Part III)
+
+* 📅 [Meetup event](https://www.meetup.com/women-who-code-tokyo/events/294403999/) 
+
+* 📚 [Resources](two-pointers-part-1.md)
