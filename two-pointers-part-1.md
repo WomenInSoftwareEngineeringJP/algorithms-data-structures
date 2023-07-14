@@ -46,3 +46,7 @@
 ## Problem solving reference
 * Leetcode [https://leetcode.com/articles/two-pointer-technique/](https://leetcode.com/articles/two-pointer-technique/)
 
+## More problems to practice Two Pointers
+* [Leetcode 876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/?envType=study-plan&envId=algorithm-i&plan=algorithm)
+* [Leetcode 19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/?envType=study-plan&envId=algorithm-i&plan=algorithm)
+
