@@ -1,4 +1,4 @@
-# Session 2 - Two Pointers
+# Topic 2 - Two Pointers
 
 # 📚 Resources
 
