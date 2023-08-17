@@ -1,4 +1,4 @@
-# Session 1 - Binary Search
+# Topic 1 - Binary Search
 
 # 📚 Resources
 
