@@ -51,3 +51,9 @@ Sign up to [Women Who Code Tokyo](https://www.womenwhocode.com/tokyo/join) to ge
 * 📅 [Meetup event](https://www.meetup.com/women-who-code-tokyo/events/294403999/) 
 
 * 📚 [Resources](two-pointers-part-1.md)
+
+## 📌✨ Session 5 - Sliding Window (Part I)
+
+* 📅 [Meetup event](https://www.meetup.com/women-who-code-tokyo/events/296292780/) 
+
+* 📚 [Resources](slinding-window.md)
