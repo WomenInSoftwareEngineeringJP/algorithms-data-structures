@@ -33,5 +33,11 @@
 ### Part 2
 * [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/)
 
+### Part 3
+* [395. Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)
+
 ## Problem solving reference
 * Leetcode [https://leetcode.com/discuss/interview-question/3722472/mastering-sliding-window-technique-a-comprehensive-guide](https://leetcode.com/discuss/interview-question/3722472/mastering-sliding-window-technique-a-comprehensive-guide)
+
+## More problems to practice Sliding Window
+* [Leetcode Sliding Window problems](https://leetcode.com/tag/sliding-window/?fbclid=IwAR01ZygOZJ4hFiEESvBvbmI7xpStJtXoG9leP_m-lY8AW0Y01TLt0HOqgN0)
