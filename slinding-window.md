@@ -36,6 +36,11 @@
 ### Part 3
 * [395. Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)
 
+### Part 4
+* We will make an overview of the 3 problems above and discuss as a group during the Meetup session.
+* If you didn't participate in previous sessions, try to solve the problems in advance.
+* For first-timers, [Join the WWCode slack](https://womenwhocode.com/join-slack) General community, and `#tokyo-study-group` channel to get some hints or ask questions before the Meetup and while you are solving offline.
+
 ## Problem solving reference
 * Leetcode [https://leetcode.com/discuss/interview-question/3722472/mastering-sliding-window-technique-a-comprehensive-guide](https://leetcode.com/discuss/interview-question/3722472/mastering-sliding-window-technique-a-comprehensive-guide)
 
