@@ -14,6 +14,7 @@
 
 * [Team AlgoDaily - How to Use the Two Pointer Technique](https://www.youtube.com/watch?v=-gjxg6Pln50)
 
+* [AlgoMonster - Two Pointers Technique](https://www.youtube.com/watch?v=xZ4AfXHQ1VQ)
 
 ## Articles:
 
