@@ -1,5 +1,28 @@
 # Topic 1 - Binary Search
 
+![Binary Search Dark Mode](https://github.com/WomenInSoftwareEngineeringJP/algorithms-data-structures/assets/77953414/ce6c19e7-8324-4a0c-895f-478bf7978d1c)
+
+# 📘 Theory
+## Introduction to Binary Search
+Binary search is an efficient algorithm for finding an item from a sorted list of items. It works by repeatedly dividing in half the portion of the list that could contain the item, until you've narrowed down the possible locations to just one.
+
+### Time Complexity
+- Best Case: O(1)
+- Average Case: O(log n)
+- Worst Case: O(log n)
+
+### Space Complexity
+- O(1) for the iterative version
+- O(log n) for the recursive version due to call stack usage
+
+### 🔧 Implementation
+- Iterative Approach
+- Recursive Approach
+
+## 🔄 Variations of Binary Search
+- Lower Bound Binary Search: Finds the first position where the target can be inserted without disrupting the order.
+- Upper Bound Binary Search: Finds the position just after the last occurrence of the target.
+
 # 📚 Resources
 
 ## Websites
@@ -38,3 +61,7 @@
 ## More problems to practice binary search
 * [Leetcode Binary Search. 8 Patterns, 42 Qs = Master BS](https://leetcode.com/studyplan/binary-search/)
 
+## 🔍 Tips and Tricks
+- Ensure the array is sorted before performing binary search.
+- Use binary search for problems involving sorted arrays, finding specific elements, or determining boundaries.
+- Practice variations of binary search to become familiar with different problem scenarios.
