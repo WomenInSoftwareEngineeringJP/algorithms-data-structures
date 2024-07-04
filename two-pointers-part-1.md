@@ -72,6 +72,6 @@ The Two Pointers technique involves using two pointers to iterate through the da
 * [Leetcode 19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/?envType=study-plan&envId=algorithm-i&plan=algorithm)
 
 ## 🔍 Tips and Tricks
-- Use it when the problem involves a sorted array or requires processing elements from both ends towards the center.
-- It reduces the need for nested loops, thus improving time complexity from O(n^2) to O(n)
-- Common scenarios for two pointers are finding pairs in arrays, reversing arrays, and solving problems involving subarrays or substrings.
+- The technique is particularly useful for problems involving sorted arrays, such as finding pairs with a specific sum.
+- Employ the fast and slow pointer approach for cycle detection or finding the middle of a linked list.
+- Practice with problems that require in-place modifications or involve finding elements that satisfy certain conditions relative to each other.
