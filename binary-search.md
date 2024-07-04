@@ -52,12 +52,20 @@ Binary search is an efficient algorithm for finding an item from a sorted list o
 
 # 💻 Binary Search Problems
 
-## Problems solved during the session
+## Problems
 
+### Part I
 * [704. Binary Search](https://leetcode.com/problems/binary-search/?envType=study-plan&id=algorithm-i)
 * [278. First Bad Version](https://leetcode.com/problems/first-bad-version/?envType=study-plan&id=algorithm-i)
 * [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/?envType=study-plan&id=algorithm-i)
 
+### Part II
+* [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/binary-search/?envType=study-plan&id=algorithm-i)
+* [33. Search in Rotated Sorted Array](https://leetcode.com/problems/first-bad-version/?envType=study-plan&id=algorithm-i)
+* [74. Search a 2D Matrix](https://leetcode.com/problems/search-insert-position/?envType=study-plan&id=algorithm-i)
+* [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/search-insert-position/?envType=study-plan&id=algorithm-i)
+* [162.  Find Peak Element](https://leetcode.com/problems/search-insert-position/?envType=study-plan&id=algorithm-i)
+  
 ## More problems to practice binary search
 * [Leetcode Binary Search. 8 Patterns, 42 Qs = Master BS](https://leetcode.com/studyplan/binary-search/)
 
