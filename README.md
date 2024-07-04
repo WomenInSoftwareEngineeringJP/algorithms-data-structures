@@ -40,4 +40,4 @@ This topics are designed to help you systematically learn and practice essential
 ## 🗂️ Data Structure
 
 ### 📌 Arrays
-* 📚 [Resources]()
+On construction 🚧
