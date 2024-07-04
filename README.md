@@ -1,59 +1,43 @@
-# 👋 Welcome to Women Who Code Tokyo!
+![Study Plan Dark Mode (1)](https://github.com/WomenInSoftwareEngineeringJP/algorithms-data-structures/assets/77953414/fc11bfdf-71d1-47b4-bc25-08c79d6ae038)
+# 👋 Welcome to WiSE Japan (Women in Software Engineering Japan)!
 
 ### This repository contains learning resources 📚 and curated material for the **Algorithms and Data Structures** study series
 <br />
 
 # How to join?
+You can join us asynchronous by our ✨ Slack Community ✨
 
-## 📅 Online Meetup Events
-* [Women Who Code Tokyo Meetup](https://www.meetup.com/Women-Who-Code-Tokyo).
-
-## Join asynchronous
-
-* ✨ WWCode Slack **#tokyo-study-group**
-
-Sign up to [Women Who Code Tokyo](https://www.womenwhocode.com/tokyo/join) to get access to Slack and join **#tokyo-study-group** and **#tokyo** channels, or join the Meetup event to get the Slack invitation.
-<br />
+Visit the website [WiSE Japan](https://womeninsoftware.jp/) to get access to Slack and join **##interview-prep** channel.
 <br />
 
 # Study Plan
-
-* **Leetcode Platform** ☞ 
-[https://leetcode.com/study-plan/algorithm/](https://leetcode.com/study-plan/algorithm/)
+This study plan follows the structured topics and provided resources divided into several topics, each of which focuses on a specific algorithm or data structure. 🗂️⚙️
 <br />
+
+For each topic, you will find a combination of theoretical explanations, coding implementations, selected resources, and practical problems. 📝💻
+<br />
+
+You can review it at any time, whether you have experience with the topics or are new and want to start preparing. 🔄🔍
 
 ## 📚 General resources
 
 ### ✨ [Algorithms and Data Structures](algorithms-dt.md)
 
-<br />
+## 📚 Topics
+This topics are designed to help you systematically learn and practice essential algorithms and data structures. Whether you are preparing for coding interviews, enhancing your programming skills, or studying, this plan provides a structured approach.
 
-## 📌 Session 1 - Binary Search
+## ⚙️ Algorithms
 
-* 📅 [Meetup event](https://www.meetup.com/women-who-code-tokyo/events/293242540/) 
-
+### 📌 Binary Search
 * 📚 [Resources](binary-search.md)
 
-## 📌 Session 2 - Two Pointers (Part I)
-
-* 📅 [Meetup event](https://www.meetup.com/women-who-code-tokyo/events/293759417/) 
-
+### 📌 Two Pointers
 * 📚 [Resources](two-pointers-part-1.md)
 
-## 📌 Session 3 - Two Pointers (Part II)
-
-* 📅 [Meetup event](https://www.meetup.com/women-who-code-tokyo/events/294115566/) 
-
-* 📚 [Resources](two-pointers-part-1.md)
-
-## 📌✨ Session 4 - Two Pointers (Part III)
-
-* 📅 [Meetup event](https://www.meetup.com/women-who-code-tokyo/events/294403999/) 
-
-* 📚 [Resources](two-pointers-part-1.md)
-
-## 📌✨ Session 5 - Sliding Window (Part I)
-
-* 📅 [Meetup event](https://www.meetup.com/women-who-code-tokyo/events/296292780/) 
-
+### 📌 Sliding Window
 * 📚 [Resources](slinding-window.md)
+
+## 🗂️ Data Structure
+
+### 📌 Arrays
+* 📚 [Resources]()
