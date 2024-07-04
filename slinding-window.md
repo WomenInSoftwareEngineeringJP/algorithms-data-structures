@@ -1,4 +1,4 @@
-# Topic 3 - Sliding Window
+# Topic 3 - Slinding Window
 
 # 📘 Theory
 ## Introduction to Sliding Window
